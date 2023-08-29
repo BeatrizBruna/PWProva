@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliaçãoPW2", "AvaliaçãoPW2\AvaliaçãoPW2.csproj", "{F18A7A9F-89F0-40F9-91B2-DB13A54A5A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaliaçãoPW2", "AvaliaçãoPW2\AvaliaçãoPW2.csproj", "{F18A7A9F-89F0-40F9-91B2-DB13A54A5A2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
